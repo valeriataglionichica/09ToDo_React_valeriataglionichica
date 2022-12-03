@@ -1,0 +1,35 @@
+#form{
+    align-items: center;
+  } 
+  #addBtn {
+    /* position: absolute; */
+    display: block;
+    align-items: center;
+    background-color: #c49eb6;
+    font-size: 20px;
+    top: 5px;
+    border:1px solid rgb(93, 18, 95);
+  }
+  
+  #addBtn:hover {
+    background-color: rgb(58, 37, 66);
+    border: 3px;
+  }
+  input{
+    left:20px;
+    position:absolute;
+  } 
+  #input {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    background-color: rgb(242, 204, 204);
+    width:100%;
+  }
+  button {
+    position: absolute;
+    right:20px;
+  }
+  button:hover {
+    background-color: #4a3a55;
+  } 
